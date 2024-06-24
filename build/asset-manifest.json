@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.64e758b1.css",
-    "main.js": "/static/js/main.35f19b89.js",
-    "static/js/453.f08df1b1.chunk.js": "/static/js/453.f08df1b1.chunk.js",
-    "index.html": "/index.html",
-    "main.64e758b1.css.map": "/static/css/main.64e758b1.css.map",
-    "main.35f19b89.js.map": "/static/js/main.35f19b89.js.map",
-    "453.f08df1b1.chunk.js.map": "/static/js/453.f08df1b1.chunk.js.map"
+    "main.css": "/virajdiro/hello-world-popup.git/static/css/main.64e758b1.css",
+    "main.js": "/virajdiro/hello-world-popup.git/static/js/main.e0838df3.js",
+    "static/js/453.f08df1b1.chunk.js": "/virajdiro/hello-world-popup.git/static/js/453.f08df1b1.chunk.js",
+    "index.html": "/virajdiro/hello-world-popup.git/index.html",
+    "main.64e758b1.css.map": "/virajdiro/hello-world-popup.git/static/css/main.64e758b1.css.map",
+    "main.e0838df3.js.map": "/virajdiro/hello-world-popup.git/static/js/main.e0838df3.js.map",
+    "453.f08df1b1.chunk.js.map": "/virajdiro/hello-world-popup.git/static/js/453.f08df1b1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.64e758b1.css",
-    "static/js/main.35f19b89.js"
+    "static/js/main.e0838df3.js"
   ]
 }
